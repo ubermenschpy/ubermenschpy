@@ -7,7 +7,7 @@
 ## my skills
 What i think i know:
 - python +2.7
-- Javascript & OOP i Javascript
+- Javascript & OOP in Javascript
 - HTML & basic CSS
 - Basic Csharp
 

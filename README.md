@@ -17,7 +17,7 @@ what i want to learn:
 3. Cybersecurity & Ethical Hacking
 
 ## footer
-I am 14 years old and more than a year ago I started in the world of **programming** and **computing**.
+I am 14 years old and more than a year ago I started in the world of **programming** and **computing**. my repositories will be in spanish.
 
 <!---
 ubermenschpy/ubermenschpy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @ubermenschpy
 - 👀 I’m interested in ... DS, ML, AI, cybersecurity, cryptocurrency & cryptography, programming, mathematics, physics & quantum mechanics
 - 🌱 I’m currently learning ... English, computer science & mathematics
-- 📫 How to reach me ... ubermenschpy#1352 or iemv1502@gmail.com
+- 📫 How to reach me ... ubermensch.py#1437
 
 ## my skills
 What i think i know:
